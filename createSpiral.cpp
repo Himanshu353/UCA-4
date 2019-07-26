@@ -22,7 +22,7 @@ int main()
 			res[i][j]=0;
 		}
 	}
-	cout<<"Before Everything Starts"<<"\n";
+	cout<<"The Input is"<<"\n";
 	for(i=0;i<n;i++)
 	{
 		for(j=0;j<n;j++)
@@ -54,7 +54,7 @@ int main()
 		}
 		c1++;
 	}
-	cout<<"After Everything Ends"<<"\n";
+	cout<<"The Result is"<<"\n";
 	for(i=0;i<n;i++)
 	{
 		for(j=0;j<n;j++)
