@@ -5,6 +5,7 @@ int main()
 {
     stack<char> s;
     string str;
+    cout<<"Enter the paranthesis to check\n";
     cin>>str;
     int i,f=0;
     for(i=0;str[i];i++)
