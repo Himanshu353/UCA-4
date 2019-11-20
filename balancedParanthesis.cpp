@@ -25,10 +25,8 @@ int main()
         }
         else
         {
-            {
                 f=1;
                 break;
-            }
         }
     }
     if(f==1||!s.empty())
