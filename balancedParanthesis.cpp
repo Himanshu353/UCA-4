@@ -12,8 +12,8 @@ int main()
     {
         if(str[i]=='('||str[i]=='{'||str[i]=='[')
         {
-        	s.push(str[i]);
-		}
+		s.push(str[i]);
+	}
         else if(s.empty())
         {
             f=1;
