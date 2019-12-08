@@ -3,7 +3,7 @@
 int main()
 {
 	int n,i,element;
-	printf("Enter the no. of elemnts\n");
+	printf("Enter the no. of elements\n");
 	scanf("%d",&n);
 	int *arr=(int*)malloc(n*sizeof(int));
 	printf("Enter the elements\n");
