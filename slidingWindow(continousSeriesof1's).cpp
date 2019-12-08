@@ -37,9 +37,9 @@ int func(vector<int> arr,int M)
             }
     }
 }
-    if((right-left)>max)
-    {
-    	max=right-left;
+	if((right-left)>max)
+        {
+	    max=right-left;
 	}
 	return max;
 }
