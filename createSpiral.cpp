@@ -11,8 +11,8 @@ int main()
 	c1=0;
 	c2=n;
 	int **res=(int **)malloc(n*sizeof(int*)); 
-    for (i=0;i<n;i++)
-    {
+    	for (i=0;i<n;i++)
+    	{
     	res[i]=(int*)malloc(n*sizeof(int));
 	}
 	for(i=0;i<n;i++)
